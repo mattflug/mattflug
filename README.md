@@ -1,20 +1,15 @@
 ### Hi 👋
 
-My name is Matt and I am a full stack developer with a background in Finance.
-I am building with React and MongoDb as I look for work.
+My name is Matt
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working with React and Mongo DB
 - 👨‍💻
 - 🏔️
 - 🏖️
 - 👔
 - 🏈 🏀 ⚽ ⚾
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 -->
 
 
