@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-I am a full stack developer with a Master's Degree in Finance. I recently moved back to my hometown Denver safter working in New York for three years.
+My name is Matt and I am a full stack developer. with a Master's Degree in Finance. I recently moved back to my hometown Denver safter working in New York for three years.
 
 
 - 🔭 I’m currently working on ...
