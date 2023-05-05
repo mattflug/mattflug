@@ -2,7 +2,7 @@
 
 My name is Matt
 
-Please check out the progress of my current Full Stack MERNG App- [Robot Umpire](https://mattflug.github.io/RobotUmpire/).
+Please check out the progress of my Full Stack App- [Robot Umpire](https://mattflug.github.io/RobotUmpire/).
 
 My Portfolio can be found here- [Mflug-Portfolio](https://mattflug.github.io/mflug-portfolio/).
 
