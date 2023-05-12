@@ -6,4 +6,4 @@ Please check out the progress of my Full Stack App- [Robot Umpire](https://mattf
 
 My Portfolio can be found here- [Mflug-Portfolio](https://mattflug.github.io/mflug-portfolio/).
 
-- ⚾ I'm building apps focussed on Sports and Economics 
+⚾ I'm building apps focussed on Sports and Economics 
